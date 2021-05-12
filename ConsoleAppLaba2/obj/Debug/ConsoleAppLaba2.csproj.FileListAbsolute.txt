@@ -1,0 +1,7 @@
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\bin\Debug\ConsoleAppLaba2.exe.config
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\bin\Debug\ConsoleAppLaba2.exe
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\bin\Debug\ConsoleAppLaba2.pdb
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\obj\Debug\ConsoleAppLaba2.csprojAssemblyReference.cache
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\obj\Debug\ConsoleAppLaba2.csproj.CoreCompileInputs.cache
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\obj\Debug\ConsoleAppLaba2.exe
+E:\Учеба\6-той семестр\Безопасность программ и данных\ConsoleAppLaba2\ConsoleAppLaba2\obj\Debug\ConsoleAppLaba2.pdb
